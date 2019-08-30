@@ -1,0 +1,31 @@
+body {
+    margin: 30px 150px;
+}
+
+.main-header {
+    text-align: right;
+}
+header p {
+    line-height: 8px;
+    
+}
+
+.profile-img {
+    border-radius: 50%;
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 2px;
+}
+
+.date {
+    display: inline-block;
+}
+
+.date, .a-date {
+    text-align: right;
+}
